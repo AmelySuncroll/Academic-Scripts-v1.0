@@ -1,4 +1,4 @@
-Academic Scripts v1.0 pack by Amely Suncroll (with ChatGPT)
+Academic Scripts v1.0 pack by Amely Suncroll 
 
 
 Piano roll scripts
