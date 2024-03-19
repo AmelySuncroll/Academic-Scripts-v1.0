@@ -1,10 +1,10 @@
-Academic Scripts pack by Amely Suncroll
+Academic Scripts v1.0 pack by Amely Suncroll
 
 
-         Piano roll scripts
+Piano roll scripts
 
 
-	Academic Dynamic - select notes and see how velocity will change by your magic fingers
+  Academic Dynamic - select notes and see how velocity will change by your magic fingers
 
 	      123 = set velocity of selected notes to 123 value
 
@@ -65,7 +65,7 @@ Academic Scripts pack by Amely Suncroll
 	            gliss
 	            slide
 
-	            - - other ornaments will be available soon (like glissando between two selected notes etc)
+	            - - other ornaments will be available soon (like glissando between two selected notes etc) (spoiler - no)
 
 	            end
 
@@ -101,7 +101,7 @@ Academic Scripts pack by Amely Suncroll
 	            add11
 	            add13
 
-	            - - other chords will be available soon (maybe)
+	            - - other chords will be available soon (look at v2.0)
 
 	            end	       
 
@@ -110,36 +110,32 @@ Academic Scripts pack by Amely Suncroll
 
 	      - - Chord+ is the same feature with additional function: this script can selecting next note or chord automatically for easier work.
 
-	end
-
-         end
+  end
 
 
 
 
+Arrange View scripts
 
-         Arrange View scripts
 
 	Comments (beta)
 
-	- - select and navigate between your text items (insert_empty_item in Action List)
+	  - - select and navigate between your text items (insert_empty_item in Action List)
 
 	end
-
-
-
-	Conductor Mode (beta)
-
-	- - decrease your project tempo to 30% low, then 20% low, then return to original tempo
-
-	end
-
-         end
 	
 end
 
+
+P.S.
+	If you like my scripts and find it really helpful for you then
+		please, support me via PayPal - @suncroll (https://paypal.me/suncroll)
+	elseif
+		5536 9140 7560 5653 - Tinkoff (Maria R)
+	end
+     
+	Any questions to email me on "amelysuncroll@gmail.com".
+
+end
+
 main()
-
-
-- - P.S. If you like my scripts and find it really helpful for you - please, support me via PayPal - @zubarovskaya.
-            If you don't have PayPal - feel free to email me on "amelysuncroll@gmail.com".
