@@ -65,7 +65,7 @@ Piano roll scripts
 	            gliss
 	            slide
 
-	            - - other ornaments will be available soon (like glissando between two selected notes etc)
+	            - - other ornaments will be available soon (like glissando between two selected notes etc) (spoiler - no)
 
 	            end
 
@@ -101,7 +101,7 @@ Piano roll scripts
 	            add11
 	            add13
 
-	            - - other chords will be available soon (maybe)
+	            - - other chords will be available soon (look at v2.0)
 
 	            end	       
 
@@ -117,17 +117,10 @@ Piano roll scripts
 
 Arrange View scripts
 
-  Comments (beta)
+
+	Comments (beta)
 
 	  - - select and navigate between your text items (insert_empty_item in Action List)
-
-	end
-
-
-
-	Conductor Mode (beta)
-
-	- - decrease your project tempo to 30% low, then 20% low, then return to original tempo
 
 	end
 	
