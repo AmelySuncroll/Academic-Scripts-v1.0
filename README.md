@@ -127,13 +127,15 @@ Arrange View scripts
 end
 
 
-
-P.S. If you like my scripts and find it really helpful for you then
-        please, support me via PayPal - @suncroll (https://paypal.me/suncroll)
-     elseif
-        5536 9140 7560 5653 - Tinkoff (Maria R)
-     end
+P.S.
+	If you like my scripts and find it really helpful for you then
+		please, support me via PayPal - @suncroll (https://paypal.me/suncroll)
+	elseif
+		5536 9140 7560 5653 - Tinkoff (Maria R)
+	end
      
-     Any questions to email me on "amelysuncroll@gmail.com".
+	Any questions to email me on "amelysuncroll@gmail.com".
+
+end
 
 main()
